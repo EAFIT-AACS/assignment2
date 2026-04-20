@@ -63,4 +63,4 @@ Reads exactly t -> h -> e -> n, then checks that the next character is not a let
 
 ## References
 
-Aho, Alfred V. et al. Compilers: Principles, Techniques, & Tools. 2nd ed. Pearson/Addison Wesley, 2007. Section 3.4.2, Figure 3.14.
+. Section 3.4.2, Figure 3.14.
